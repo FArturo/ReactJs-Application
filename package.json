@@ -1,0 +1,19 @@
+{
+  "name": "react-application",
+  "version": "1.0.0",
+  "description": "hello world, react application ",
+  "main": "index.js",
+  "scripts": {
+    "start" : "webpack-dev-server"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Fernando Arias",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
